@@ -1,0 +1,28 @@
+js = language
+managed by ecmascript
+ecmascript naya features, purana hatana, kharab features sahi karna and
+overall development of js
+
+at that time mainly two parts of javascript
+1. es5 and before - ex:var (old version)
+2. es6 and after - ex:let  (new version)
+
+js the language = code likhna sikhna and main features aana chaiye
+js the dom = code likhkar cheejein banana seekhna
+
+console alert prompt - inbuilt features of browser
+
+console :-
+console.log :-
+console.log("hello") - print normal msg
+console.warn:-
+console.warn("hello") - print warning msg
+console.error:-
+console.error("hello") - print error msg
+
+alert:-
+alert("hello"); - it is used to show the alert on web browser ya live server
+
+prompt:-
+prompt alert ka bhai hai jo ki alert se ek kadam aage hai
+prompt("hello"); -prompt se hum msg display karata hai or sath ma input lata hai
